@@ -21,7 +21,7 @@ Os testes foram escritos usando Jest e React Testing Library. Para executar os t
 
 ## Estilos
 
-Os estilos globais e específicos do componente são encontrados no arquivo `styles.css`.
+Os estilos globais e específicos do componente foram realizados usando bootstrap
 
 # gluk-test
 # gluk-test
